@@ -1,6 +1,6 @@
-# Data_Analist
-Projects Data analysis
-## Proyeto  SQL enfocado en analisis de alarmas de equipos industriales.
+## Analisis de alarmas industriales
+Proyeto  SQL enfocado en analisis de alarmas de equipos industriales
+
 ## Herramientas
 -MySQL
 
