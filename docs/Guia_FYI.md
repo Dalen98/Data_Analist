@@ -1,4 +1,4 @@
-# 3 proyectos clave para tu CV de Data Analyst
+# 3 proyectos clave para tu CV de Data Analyst modificado por dalen
 
 ## 1. Retail Sales Performance Dashboard
 
